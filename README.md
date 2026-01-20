@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Anmol Kumar 
-- 👀  "I'm striving to become a proficient web developer and build impactful web applications. I'm always looking for opportunities to learn and grow my skills."
-- 🌱 I’m currently learning Web development.
-- 💞️  "I'm a software engineer striving to build impactful and innovative solutions. I always seek opportunities to collaborate on challenging projects and grow my skills.
-- 📫 How to reach me , My Mail is - theadultanmol@gmail.com
-- 😄 Pronouns: He 
+
 
 <!---
 Anmol2004k/Anmol2004k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +9,18 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnmolKumar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
-- 🎓 B.Tech / BCA Graduate
+- 👋 Hey, I’m Anmol Kumar  
+
+💻 Web Developer | Learner | Builder  
+
+I’m on a journey to become a skilled web developer, creating meaningful and impactful web applications.  
+I love experimenting with new ideas, improving my skills, and collaborating on challenging projects.  
+
+🌱 Currently learning modern Web Development  
+🤝 Open for collaboration and growth  
+
+📩 Contact: **theadultanmol@gmail.com**
+
 - 💻 Full Stack Web Developer
 - 🚀 Interested in AI-powered Web Apps
 - 🌱 Currently learning Advanced React & Backend
