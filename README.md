@@ -17,27 +17,14 @@
 
 ---
 
-## 🛠 Tech Stack
-
+ 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,python,git,github&perline=6" />
 </p> -->
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,
-  react,tailwind,
-  nodejs,express,
-  mongodb,
-  python,
-  git,github,
-  figma,postman,
-  npm,
-  notion,
-  aws,docker,azure,
-  vscode
-  &perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,python,git,github,figma,postman,npm,notion,aws,docker,azure,vscode&perline=6" />
 </p>
 
 ---
