@@ -21,59 +21,47 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 ---
 
 ### 🛠 Tech Stack
+---
 
+**💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js&perline=10" />
+</p>
+
+> **Note:** Although I work with C (for collage only 😂), C++(Only for solving DSA), and Python for Exploration, **JavaScript is my favorite** for building dynamic web experiences! ✨
+
+---
 **Frontend & Design**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=10" />
 </p>
 
-**Backend & Database (Including PHP/MySQL)**
+**Backend & Database **
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postman&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postman,py,flask,django&perline=10" />
 </p>
 
 **Tools & Environment**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,py,aws,docker&perline=10" />
 </p>
+------
+ 
+ ---
 
-> **Note:** Experienced in local environment management using **XAMPP** for PHP & MySQL development.
-
----
-
- <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2004k&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Anmol2004k&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&count_private=true" />
-</td>
-</tr>
-</table>
+### 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol2004k&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github-compact&hide_border=true&area=true&color=0e75b6" width="100%" />
 </p>
----
 
-### 🚀 Featured Projects
-
-#### 🩺 [HealthMate – AI Healthcare Assistant](https://github.com/Anmol2004k/HealthMate)
-*AI-powered healthcare solution for quick diagnosis.*
-- **Tech:** Flask, Python, ML, React
-- **Impact:** Real-time symptom checking and BMI analysis based on Govt. guidelines.
-
-#### 🎵 [Mood Based Music Player](https://github.com/Anmol2004k/Mood-Music)
-*Frontend-heavy application focusing on UX and emotion.*
-- **Tech:** JavaScript, HTML5, CSS3
-- **Features:** Dynamic UI changes based on user mood selection.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2004k&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff" width="48%" />
+</p>
 
 ---
+ 
 
 ### 🌐 Connect With Me
 
