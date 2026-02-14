@@ -41,17 +41,24 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anmol2004k&show_icons=true&theme=radical&rank_icon=github" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Anmol2004k&theme=radical" width="48%" />
+ <p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2004k&layout=compact&theme=radical" width="48%" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2004k&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Anmol2004k&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6&count_private=true" />
+</td>
+</tr>
+</table>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol2004k&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6" />
+</p>
 ---
 
 ### 🚀 Featured Projects
