@@ -40,7 +40,7 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postman,py,flask,django&perline=10" />
 </p>
-
+**Tools and Other**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,aws,docker,vercel,netlify&perline=10" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="48" />
@@ -48,13 +48,16 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 **Hosting Expertise:** Experienced in deploying scalable apps on **Vercel** (Frontend), **Netlify**, and managing shared hosting/VPS through **Hostinger**.
 
 ---
-### 📊 GitHub Activity
+ ---
+
+### 📊 My Contribution Calendar
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/calendar.py?username=Anmol2004k&theme=default&hide_border=true" width="100%" />
 </p>
----
 
 ---
+ 
 
 ## 💼 Featured Projects & Professional Work
 
