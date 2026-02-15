@@ -36,41 +36,102 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma&perline=10" />
 </p>
-
-**Backend & Database **
+**Backend & Database**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,postman,py,flask,django&perline=10" />
 </p>
 
-**Tools & Environment**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,py,aws,docker&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,aws,docker,vercel,netlify&perline=10" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" height="48" />
 </p>
-------
- 
- ---
+**Hosting Expertise:** Experienced in deploying scalable apps on **Vercel** (Frontend), **Netlify**, and managing shared hosting/VPS through **Hostinger**.
 
+---
 ### 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github-compact&hide_border=true&area=true&color=0e75b6" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol2004k&theme=github&hide_border=true&area=true" width="100%" />
 </p>
+---
+
+---
+
+## 💼 Featured Projects & Professional Work
+
+### 🎬 [The Creation Edit] – Creative Agency Website
+*A high-performance landing page for a video editing agency specializing in, sort video , reels, YT Sorts, YouTube content.*
+- **Tech Stack:** React, TypeScript, Tailwind CSS, Framer Motion, FormsFree.io.
+- **Key Features:** Ultra-smooth animations using **Framer Motion**, fully responsive UI, and integrated **Formspree** for client inquiries.
+- **Deployment:** Optimized and hosted on **Vercel** for lightning-fast loading speeds.>>
+- **live Link - https://thecreationedit.com
+
+
+---
+
+### 🎓 SRK Coaching Center – Educational Platform
+*A professional digital presence for a coaching institute to manage student inquiries.*
+- **Tech Stack:** React, Tailwind CSS, TypeScript, Framer Motion
+- **Impact:** Digitized the institute's enrollment process, replacing manual inquiries with a streamlined **Formspree** contact system.
+- **Visuals:** Modern, accessible design focused on conversion and user trust.
+
+---
+
+### 🛠️ Full-Stack Admin Panel – CRUD System
+*A robust backend management system focused on data integrity and user management.*
+- **Tech Stack:**,HTML, JavaScript, PHP, MySQL, XAMPP, Bootstrap.
+- **Functionality:** Implemented complete **CRUD operations** (Create, Read, Update, Delete) with secure MySQL database handling.
+- **Core Skill:** Demonstrated expertise in the **LAMP stack** and relational database management.
+
+---
+
+### 👤 [Personal Portfolio] – Full Stack Showcase
+*    My professional identity on the web, showcasing my journey and technical expertise.*
+- ** Tech Stack:** React, Tailwind CSS, Framer Motion, Deployment via Vercel.
+- ** Highlights:** Dynamic project gallery, seamless navigation, and personal branding that reflects a focus on modern web standards.
+-** live Link - https://anmolkumar.in
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol2004k&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6&text_color=ffffff" width="48%" />
+  <a href="https://www.linkedin.com/in/anmolkumar2028" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href= "https://x.com/Anmol_thaakur" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="X" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/9416122359?text=Hello%20Anmol%2C%20I%20saw%20your%20portfolio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="45" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="https://discordapp.com/users/YOUR-DISCORD-ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/AnmolKumar_dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" width="45" alt="Telegram" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/anmolthaakur_/?hl=en" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/Much_Picture9031/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=reddit" width="45" alt="Reddit" />
+  </a>
 </p>
 
 ---
- 
-
-### 🌐 Connect With Me
-
+---
+<h3 align="center">💸 Support My Dreams (My Addiction)</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR-TWITTER" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  <summary><b>Click to help me get rich! 🚀</b></summary>
+  <a href="upi: at4141anmol@okicici&pn=Anmol%20Kumar&cu=INR">
+    <img src="https://img.shields.io/badge/Support%20via%20UPI-00b894?style=for-the-badge&logo=google-pay&logoColor=white" />
+    <p><i>"I'm a little greedy, highly talented, and currently broke. Help me transition from 'Maggi' to 'Starbucks'!"</i> ☕🍜</p>
   </a>
 </p>
+ 
