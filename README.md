@@ -48,15 +48,7 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 **Hosting Expertise:** Experienced in deploying scalable apps on **Vercel** (Frontend), **Netlify**, and managing shared hosting/VPS through **Hostinger**.
 
 ---
- ---
 
-### 📊 My Contribution Calendar
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/calendar.py?username=Anmol2004k&theme=default&hide_border=true" width="100%" />
-</p>
-
----
  
 
 ## 💼 Featured Projects & Professional Work
@@ -94,47 +86,42 @@ I am a results-driven **Full Stack Developer** with a focus on building scalable
 -** live Link - https://anmolkumar.in
 
 ---
-
+ 
 ## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anmolkumar2028" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" />
   </a>
   &nbsp;
-  <a href= "https://x.com/Anmol_thaakur" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" alt="X" />
+  <a href="https://x.com/Anmol_thaakur" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="45" />
   </a>
   &nbsp;
   <a href="https://wa.me/9416122359?text=Hello%20Anmol%2C%20I%20saw%20your%20portfolio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" width="45" alt="WhatsApp" />
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
   </a>
   &nbsp;
-  <a href="https://discordapp.com/users/YOUR-DISCORD-ID" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="45" alt="Discord" />
+  <a href="https://discord.com/users/YOUR-DISCORD-ID" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" />
   </a>
   &nbsp;
   <a href="https://t.me/AnmolKumar_dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="45" alt="Telegram" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/anmolthaakur_/?hl=en" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+  <a href="https://www.instagram.com/anmolthaakur_/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" />
   </a>
   &nbsp;
   <a href="https://www.reddit.com/user/Much_Picture9031/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=reddit" width="45" alt="Reddit" />
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="45" />
   </a>
+</p>
+---
+ <p align="center">
+  <i>✨ राधा नाम बिना सब सूना ✨</i>
+   <h3 align="center">🌸✨ गुरु कृपा ही केवलम् ✨🌸</h3>
+
 </p>
 
----
----
-<h3 align="center">💸 Support My Dreams (My Addiction)</h3>
-<p align="center">
-  <summary><b>Click to help me get rich! 🚀</b></summary>
-  <a href="upi: at4141anmol@okicici&pn=Anmol%20Kumar&cu=INR">
-    <img src="https://img.shields.io/badge/Support%20via%20UPI-00b894?style=for-the-badge&logo=google-pay&logoColor=white" />
-    <p><i>"I'm a little greedy, highly talented, and currently broke. Help me transition from 'Maggi' to 'Starbucks'!"</i> ☕🍜</p>
-  </a>
-</p>
- 
